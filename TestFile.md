@@ -6,4 +6,4 @@ git branch -M main
 git remote add origin https://github.com/ghjxrhgfguvfyigy-ai/vabalabada.git
  git push -u origin main
 
-goblin slave
+goblin slave with Fedya Zuev and Stepen Ivanov
