@@ -8,3 +8,5 @@
 sharaga54 slave with Fedya Zuev and Stepen Ivanov
 
 [ссылка сюда же](https://github.com/ghjxrhgfguvfyigy-ai/vabalabada/blob/main/TestFile.md/ "Gists")
+[ссылка на README](https://github.com/ghjxrhgfguvfyigy-ai/vabalabada/blob/main/TestFile.md/ "Gists")
+
