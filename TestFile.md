@@ -6,3 +6,5 @@
 ###### 6 уровень, он самый бедный и маленький
 
 sharaga54 slave with Fedya Zuev and Stepen Ivanov
+
+[ссылка сюда же](https://github.com/ghjxrhgfguvfyigy-ai/vabalabada/edit/main/TestFile.md/ "Gists")
